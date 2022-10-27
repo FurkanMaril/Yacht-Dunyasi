@@ -1,6 +1,6 @@
 # Yacht Dünyasi
 
-## [yachtdunyasi.com](www.yachtdunyasi.com)
+## [yachtdunyasi.com](https://www.yachtdunyasi.com/)
 
 Merhaba,
 
@@ -35,11 +35,9 @@ Platformda birçok sayfa bulunmakta, Bunlar;
 
 sayfaların arayüz kodlamasının bitmesinin ardından projenin geliştirilmesiyle artık bağlantım kalmadı.
 
-Siteyi incelemek isterseniz [buradaki linke tıklayınız.](www.yachtdunyasi.com)
+Siteyi incelemek isterseniz [buradaki linke tıklayınız.](https://www.yachtdunyasi.com/)
 
 Sitede aktif olarak kiralama işlemleri yapılması ve ödeme yöntemleri gibi önemli bilgilerin güvenlik 
 nedenleriyle açık edilmemesi sebebiyle kod paylaşımında bulunamıyorum.
 
 E-ticaret sektöründe edinmiş olduğum tecrübelerimi ilk deneyimlediğim platformdur.
-
-
